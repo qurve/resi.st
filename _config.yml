@@ -1,0 +1,2 @@
+safe: false
+exclude: [resist.sublime-project, resist.sublime-workspace]
